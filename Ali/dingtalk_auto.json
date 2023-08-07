@@ -1,4 +1,4 @@
-{
+﻿{
     "ver":"5.0",
     "tag":"hipsuser_auto",
     "data":{
@@ -506,6 +506,18 @@
                 "montype":1,
                 "action_type":15,
                 "treatment":3
+            },
+            {
+                "res_path":"*\\D3DSCache\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Intel\\ShaderCache\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
             }
         ]
     }

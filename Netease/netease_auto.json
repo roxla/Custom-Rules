@@ -470,6 +470,24 @@
                 "montype":1,
                 "action_type":15,
                 "treatment":3
+            },
+            {
+                "res_path":"*\\Intel\\ShaderCache\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*.flac",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*.mp3",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
             }
         ]
     }

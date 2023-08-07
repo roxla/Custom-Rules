@@ -564,7 +564,7 @@
             {
                 "res_path":"*\\D3DSCache\\*",
                 "montype":1,
-                "action_type":3,
+                "action_type":15,
                 "treatment":0
             },
             {
@@ -592,10 +592,10 @@
                 "treatment":0
             },
             {
-                "res_path":"*\\Local\\D3DSCache\\*",
+                "res_path":"*\\Intel\\ShaderCache\\*",
                 "montype":1,
                 "action_type":15,
-                "treatment":3
+                "treatment":0
             }
         ]
     }

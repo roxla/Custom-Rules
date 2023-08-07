@@ -343,7 +343,7 @@
                 "res_path":"*\\Sogou*\\*",
                 "montype":1,
                 "action_type":15,
-                "treatment":3
+                "treatment":0
             },
             {
                 "res_path":"*\\Razer\\*",

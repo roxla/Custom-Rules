@@ -48,7 +48,7 @@
             {
                 "res_path":"*\\Windows\\Fonts\\*",
                 "montype":1,
-                "action_type":2,
+                "action_type":6,
                 "treatment":0
             },
             {
@@ -66,7 +66,7 @@
             {
                 "res_path":"*\\Windows\\SysWOW64\\*",
                 "montype":1,
-                "action_type":3,
+                "action_type":7,
                 "treatment":0
             },
             {
@@ -96,7 +96,7 @@
             {
                 "res_path":"*\\Windows\\apppatch\\*.sdb",
                 "montype":1,
-                "action_type":3,
+                "action_type":7,
                 "treatment":0
             },
             {
@@ -120,7 +120,7 @@
             {
                 "res_path":"*\\Windows\\System32\\*",
                 "montype":1,
-                "action_type":2,
+                "action_type":6,
                 "treatment":0
             },
             {
@@ -174,7 +174,7 @@
             {
                 "res_path":"*\\Windows\\*\\FontCache\\*",
                 "montype":1,
-                "action_type":2,
+                "action_type":6,
                 "treatment":0
             },
             {
@@ -409,7 +409,7 @@
                 "res_path":"*\\NVIDIA Corporation\\*",
                 "montype":1,
                 "action_type":15,
-                "treatment":3
+                "treatment":0
             },
             {
                 "res_path":"*\\Temp\\*",
@@ -601,6 +601,30 @@
                 "res_path":"*\\qq-play\\*",
                 "montype":1,
                 "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Globalization\\*.nls",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Globalization\\Sorting\\*.nls",
+                "montype":1,
+                "action_type":6,
+                "treatment":0
+            },
+            {
+                "res_path":"C:\\",
+                "montype":1,
+                "action_type":6,
+                "treatment":0
+            },
+            {
+                "res_path":"D:\\",
+                "montype":1,
+                "action_type":6,
                 "treatment":0
             }
         ]

@@ -72,7 +72,7 @@
             {
                 "res_path":"*\\Windows\\SysWOW64\\*",
                 "montype":1,
-                "action_type":2,
+                "action_type":6,
                 "treatment":0
             },
             {
@@ -132,7 +132,7 @@
             {
                 "res_path":"*\\Windows\\System32\\*",
                 "montype":1,
-                "action_type":2,
+                "action_type":6,
                 "treatment":0
             },
             {
@@ -379,7 +379,7 @@
                 "res_path":"*\\Sogou*\\*",
                 "montype":1,
                 "action_type":15,
-                "treatment":3
+                "treatment":0
             },
             {
                 "res_path":"*\\Razer\\*",
@@ -409,7 +409,7 @@
                 "res_path":"*\\NVIDIA Corporation\\*",
                 "montype":1,
                 "action_type":15,
-                "treatment":3
+                "treatment":0
             },
             {
                 "res_path":"*\\Temp\\*",
@@ -517,6 +517,36 @@
                 "res_path":"*\\Intel\\ShaderCache\\*",
                 "montype":1,
                 "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\dinglive\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Globalization\\*.nls",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"C:\\",
+                "montype":1,
+                "action_type":6,
+                "treatment":0
+            },
+            {
+                "res_path":"D:\\",
+                "montype":1,
+                "action_type":6,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Globalization\\Sorting\\*.nls",
+                "montype":1,
+                "action_type":6,
                 "treatment":0
             }
         ]

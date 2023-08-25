@@ -626,6 +626,18 @@
                 "montype":1,
                 "action_type":6,
                 "treatment":0
+            },
+            {
+                "res_path":"*\\Adobe\\Acrobat DC\\Acrobat\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\npxunlei.dll",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
             }
         ]
     }

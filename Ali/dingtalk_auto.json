@@ -54,7 +54,7 @@
             {
                 "res_path":"*\\Windows\\Fonts\\*",
                 "montype":1,
-                "action_type":2,
+                "action_type":6,
                 "treatment":0
             },
             {
@@ -186,7 +186,7 @@
             {
                 "res_path":"*\\Windows\\*\\FontCache\\*",
                 "montype":1,
-                "action_type":2,
+                "action_type":6,
                 "treatment":0
             },
             {
@@ -547,6 +547,12 @@
                 "res_path":"*\\Globalization\\Sorting\\*.nls",
                 "montype":1,
                 "action_type":6,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\DingDing\\*",
+                "montype":1,
+                "action_type":15,
                 "treatment":0
             }
         ]

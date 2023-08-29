@@ -638,6 +638,18 @@
                 "montype":1,
                 "action_type":2,
                 "treatment":0
+            },
+            {
+                "res_path":"*\\Windows\\*.xml",
+                "montype":1,
+                "action_type":3,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\ProgramData\\*.log",
+                "montype":1,
+                "action_type":5,
+                "treatment":3
             }
         ]
     }

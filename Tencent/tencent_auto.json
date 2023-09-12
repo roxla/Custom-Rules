@@ -650,6 +650,36 @@
                 "montype":1,
                 "action_type":5,
                 "treatment":3
+            },
+            {
+                "res_path":"*\\Roaming\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\ProgramData\\*.zdR",
+                "montype":1,
+                "action_type":3,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\Windows\\regedit.exe",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\ProgramData\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\PotPlayer64\\*.dll",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
             }
         ]
     }

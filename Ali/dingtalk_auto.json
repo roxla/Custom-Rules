@@ -102,7 +102,7 @@
             {
                 "res_path":"*\\Windows\\apppatch\\*.sdb",
                 "montype":1,
-                "action_type":3,
+                "action_type":7,
                 "treatment":0
             },
             {
@@ -553,6 +553,12 @@
                 "res_path":"*\\DingDing\\*",
                 "montype":1,
                 "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\PotPlayer64\\*.dll",
+                "montype":1,
+                "action_type":2,
                 "treatment":0
             }
         ]
